@@ -1,0 +1,15 @@
+body  {
+    text-align:  center;
+    font-size:  40px;
+    padding:  35vh  10px  40vh  10px;
+    background-color:  #ffc971;
+}
+
+#song_title,  #artist  {
+    text-decoration:  none;
+    color:  #d1603d;
+} 
+
+#song_title:hover  {
+    opacity:  0.6;
+}
