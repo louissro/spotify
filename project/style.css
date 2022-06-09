@@ -3,6 +3,7 @@ body  {
     font-size:  40px;
     padding:  35vh  10px  40vh  10px;
     background-color:  #ffc971;
+    font-family: 'Lato', sans-serif;
 }
 
 #song_title,  #artist  {
